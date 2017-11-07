@@ -56,3 +56,19 @@ Birth date,First name,Last name,Weight
 * in case the format of the file is not correct, the program should fail but say explicitly why
 * a fixed format file may be very big (several GB)
 
+# Solution
+
+A [Spring Shell](https://projects.spring.io/spring-shell/) project with a command "converttocsv"
+
+## Build / Run
+
+Build using [Maven](https://maven.apache.org/) (goal `install`) 
+
+###Start shell using :
+
+`java -jar target/utils-1.0-SNAPSHOT.jar`
+
+###Run the command using :
+
+`octo-shell:> onverttocsv --config-file-name src/test/resources/config.txt --input-file-name src/test/resources/input.txt --output-file-name out.csv
+`

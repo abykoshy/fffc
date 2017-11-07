@@ -1,0 +1,108 @@
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+190-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1970-01-01John           Smith           81.5
+1975-01-31Jane d'alves   Doe             61.1
+1988-11-28Bob            Big            102.4
+1988-11-28Bob            Big            102.4
